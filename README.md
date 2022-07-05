@@ -31,8 +31,11 @@ OS & Softwares\
 ![Latex](https://img.shields.io/badge/LaTex-008080?style=flat&logo=LaTex&logoColor=white)&nbsp;
 ![MATLAB](https://img.shields.io/badge/MATLAB-D95319?style=flat)&nbsp;
 ![Cantera](https://img.shields.io/badge/Cantera-D95319?style=flat)&nbsp;
-![ROOT](https://img.shields.io/badge/ROOT-3D6093?style=flat)&nbsp;
-
+![ROOT](https://img.shields.io/badge/ROOT-3D6093?style=flat)&nbsp;\
+Academic\
+![msphys](https://img.shields.io/badge/M.S._in_Physics-000000?style=flat)&nbsp;
+![bsphys](https://img.shields.io/badge/B.S._in_Physics-000000?style=flat)&nbsp;
+![bsme](https://img.shields.io/badge/B.S._in_M.E.-000000?style=flat)&nbsp;
 ### Contact
 <a href="https://instagram.com/jongwon_lim97">
   <img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
