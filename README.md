@@ -41,4 +41,4 @@ Academic\
   <img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
 </a>
 
-<img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjolim97&count_bg=%23BFE7A1&title_bg=%23555555&icon=&icon_color=%539421&title=hits&edge_flat=false"/>
+<img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjolim97&count_bg=%231B6FAA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
