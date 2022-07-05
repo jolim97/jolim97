@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ![jolim97's github stats](https://github-readme-stats.vercel.app/api?username=jolim97&show_icons=true)
 [![jolim97's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jolim97&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jolim97)
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
