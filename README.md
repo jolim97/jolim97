@@ -8,7 +8,9 @@
 
 ### BOJ Stats
 <p align="left">
-  <img height="150" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ljw1015"/>
+  <a href="https://solved.ac/profile/ljw1015">
+    <img height="150" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ljw1015"/>
+  </a>
 </p>
 
 ### Experiences
