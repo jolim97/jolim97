@@ -33,12 +33,11 @@
 
 #### OS & Softwares
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black)&nbsp;
 ![macOS](https://img.shields.io/badge/macOS-2a2a2a?style=flat&logo=Apple&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)&nbsp;
 ![Latex](https://img.shields.io/badge/LaTex-008080?style=flat&logo=LaTex&logoColor=white)&nbsp;
 ![MATLAB](https://img.shields.io/badge/MATLAB-D95319?style=flat)&nbsp;
-![Cantera](https://img.shields.io/badge/Cantera-D95319?style=flat)&nbsp;
 ![ROOT](https://img.shields.io/badge/ROOT-3D6093?style=flat)&nbsp;
 
 #### Academic
@@ -47,11 +46,13 @@
 ![bsphys](https://img.shields.io/badge/B.S._in_Physics-2a2a2a?style=flat)&nbsp;
 ![bsme](https://img.shields.io/badge/B.S._in_M.E.-2a2a2a?style=flat)&nbsp;
 
-#### Interest in (planning to study)
+#### Interests (planning to study)
 
 ![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=flat&logo=Node.JS&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-2a2a2a?style=flat&logo=Flask&logoColor=white)&nbsp;
+![JAVA](https://img.shields.io/badge/JAVA-52718F?style=flat)&nbsp;
+
 
 ### Contact
 <a href="https://instagram.com/jongwon_lim97">
