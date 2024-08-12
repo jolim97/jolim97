@@ -6,13 +6,6 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jolim97&count_private=true&theme=prussian&langs_count=8&layout=compact&hide_border=True"/>
 </p>
 
-### BOJ Stats
-<p align="left">
-  <a href="https://solved.ac/profile/ljw1015">
-    <img height="150" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ljw1015"/>
-  </a>
-</p>
-
 ### Experiences
 #### Programming Languages
 
